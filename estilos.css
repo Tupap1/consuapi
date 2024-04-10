@@ -1,0 +1,44 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+.h1{
+    color:rgb(44, 179, 10);
+    font-size: 100px;
+    font-family:100px;
+    background-color: blue;
+    text-align: center;
+}
+.h3{
+    color:rgb(10, 154, 179);
+    font-size: 50px;
+    font-family:"lucida sans";
+    background-color: rgb(0, 255, 98);
+    text-align: center;
+    border: 3px;
+}
+.h2{
+    color: rgb(0, 24, 131);
+    font-size: 100px;
+    font-family: "lucida sans";
+}
+.titulo1{
+    color: beige;
+    background-color: rgb(255, 153, 0);
+    text-align: center;
+}
+.titulo2{
+    color: beige;
+    background-color: rgb(0, 255, 157);
+    text-align: center;
+}
+.secion1{
+    background-color: rgb(0, 43, 43);
+}
+.secion2{
+    background-color: brown;
+}
+
+
+
